@@ -1,2 +1,2 @@
 # everybody-codes
-https://everybody.codes/ solutions (since 2024)
+https://everybody.codes/ solutions
